@@ -1,0 +1,240 @@
+Removed Pin From Net: NetName=12V Pin=-1
+Removed Pin From Net: NetName=GND Pin=-2
+Change Component Comment : Designator= Old Comment=1E New Comment=R22
+Change Component Comment : Designator= Old Comment=1E New Comment=R28
+Change Component Comment : Designator= Old Comment=10K New Comment=R1
+Change Component Comment : Designator= Old Comment=10K New Comment=R2
+Change Component Comment : Designator= Old Comment=10K New Comment=R3
+Change Component Comment : Designator= Old Comment=10K New Comment=R6
+Change Component Comment : Designator= Old Comment=10K New Comment=R7
+Change Component Comment : Designator= Old Comment=10K New Comment=R9
+Change Component Comment : Designator= Old Comment=10K New Comment=R10
+Change Component Comment : Designator= Old Comment=10K New Comment=R15
+Change Component Comment : Designator= Old Comment=10K New Comment=R17
+Change Component Comment : Designator= Old Comment=10K New Comment=R20
+Change Component Comment : Designator= Old Comment=10K New Comment=R21
+Change Component Comment : Designator= Old Comment=10K New Comment=R26
+Change Component Comment : Designator= Old Comment=10K New Comment=R27
+Change Component Comment : Designator= Old Comment=47K New Comment=R4
+Change Component Comment : Designator= Old Comment=47K New Comment=R5
+Change Component Comment : Designator= Old Comment=104 New Comment=
+Change Component Comment : Designator= Old Comment=104 New Comment=C1
+Change Component Comment : Designator= Old Comment=104 New Comment=C5
+Change Component Comment : Designator= Old Comment=104 New Comment=C8
+Change Component Comment : Designator= Old Comment=104 New Comment=C9
+Change Component Comment : Designator= Old Comment=104 New Comment=C10
+Change Component Comment : Designator= Old Comment=104 New Comment=C11
+Change Component Comment : Designator= Old Comment=106 New Comment=
+Change Component Comment : Designator= Old Comment=106 New Comment=
+Change Component Comment : Designator= Old Comment=106 New Comment=C6
+Change Component Comment : Designator= Old Comment=106 New Comment=C7
+Change Component Comment : Designator= Old Comment=330E New Comment=R8
+Change Component Comment : Designator= Old Comment=330E New Comment=R11
+Change Component Comment : Designator= Old Comment=330E New Comment=R12
+Change Component Comment : Designator= Old Comment=330E New Comment=R13
+Change Component Comment : Designator= Old Comment=330E New Comment=R14
+Change Component Comment : Designator= Old Comment=330E New Comment=R16
+Change Component Comment : Designator= Old Comment=330E New Comment=R18
+Change Component Comment : Designator= Old Comment=330E New Comment=R19
+Change Component Comment : Designator= Old Comment=330E New Comment=R24
+Change Component Comment : Designator= Old Comment=330E New Comment=R25
+Change Component Comment : Designator= Old Comment=330E New Comment=R30
+Change Component Comment : Designator= Old Comment=330E New Comment=R32
+Change Component Comment : Designator= Old Comment=330E New Comment=R33
+Change Component Comment : Designator= Old Comment=470E New Comment=R31
+Change Component Comment : Designator= Old Comment=BC857 New Comment=Q3
+Change Component Comment : Designator= Old Comment=BC857 New Comment=Q4
+Change Component Comment : Designator= Old Comment=FT232RL New Comment=IC8
+Change Component Comment : Designator= Old Comment=IN1 New Comment=LED5
+Change Component Comment : Designator= Old Comment=IN2 New Comment=LED6
+Change Component Comment : Designator= Old Comment=PWR New Comment=L1
+Change Component Comment : Designator= Old Comment=RELAY1 New Comment=LED7
+Change Component Comment : Designator= Old Comment=RELAY2 New Comment=LED8
+Change Component Comment : Designator= Old Comment=RXD New Comment=LED2
+Change Component Comment : Designator= Old Comment=RXD New Comment=LED3
+Change Component Comment : Designator= Old Comment=TXD New Comment=LED1
+Change Component Comment : Designator= Old Comment=TXD New Comment=LED4
+Change Component Comment : Designator= Old Comment=UTC8550S New Comment=Q5
+Change Component Comment : Designator= Old Comment=UTC8550S New Comment=Q6
+Change Component Designator: OldDesignator= NewDesignator=C1
+Change Component Designator: OldDesignator= NewDesignator=C2
+Change Component Designator: OldDesignator= NewDesignator=C3
+Change Component Designator: OldDesignator= NewDesignator=C4
+Change Component Designator: OldDesignator= NewDesignator=C5
+Change Component Designator: OldDesignator= NewDesignator=C6
+Change Component Designator: OldDesignator= NewDesignator=C7
+Change Component Designator: OldDesignator= NewDesignator=C8
+Change Component Designator: OldDesignator= NewDesignator=C9
+Change Component Designator: OldDesignator= NewDesignator=C10
+Change Component Designator: OldDesignator= NewDesignator=C11
+Change Component Designator: OldDesignator= NewDesignator=D1
+Change Component Designator: OldDesignator= NewDesignator=D2
+Change Component Designator: OldDesignator= NewDesignator=D3
+Change Component Designator: OldDesignator= NewDesignator=IC1
+Change Component Designator: OldDesignator= NewDesignator=IC2
+Change Component Designator: OldDesignator= NewDesignator=IC3
+Change Component Designator: OldDesignator= NewDesignator=IC4
+Change Component Designator: OldDesignator= NewDesignator=IC5
+Change Component Designator: OldDesignator= NewDesignator=IC6
+Change Component Designator: OldDesignator= NewDesignator=IC7
+Change Component Designator: OldDesignator= NewDesignator=IC8
+Change Component Designator: OldDesignator= NewDesignator=K1
+Change Component Designator: OldDesignator= NewDesignator=K2
+Change Component Designator: OldDesignator= NewDesignator=L1
+Change Component Designator: OldDesignator= NewDesignator=LED1
+Change Component Designator: OldDesignator= NewDesignator=LED2
+Change Component Designator: OldDesignator= NewDesignator=LED3
+Change Component Designator: OldDesignator= NewDesignator=LED4
+Change Component Designator: OldDesignator= NewDesignator=LED5
+Change Component Designator: OldDesignator= NewDesignator=LED6
+Change Component Designator: OldDesignator= NewDesignator=LED7
+Change Component Designator: OldDesignator= NewDesignator=LED8
+Change Component Designator: OldDesignator= NewDesignator=P1
+Change Component Designator: OldDesignator= NewDesignator=P2
+Change Component Designator: OldDesignator= NewDesignator=P3
+Change Component Designator: OldDesignator= NewDesignator=P4
+Change Component Designator: OldDesignator= NewDesignator=P6
+Change Component Designator: OldDesignator= NewDesignator=P7
+Change Component Designator: OldDesignator= NewDesignator=P8
+Change Component Designator: OldDesignator= NewDesignator=P9
+Change Component Designator: OldDesignator= NewDesignator=Q1
+Change Component Designator: OldDesignator= NewDesignator=Q2
+Change Component Designator: OldDesignator= NewDesignator=Q3
+Change Component Designator: OldDesignator= NewDesignator=Q4
+Change Component Designator: OldDesignator= NewDesignator=Q5
+Change Component Designator: OldDesignator= NewDesignator=Q6
+Change Component Designator: OldDesignator= NewDesignator=R1
+Change Component Designator: OldDesignator= NewDesignator=R2
+Change Component Designator: OldDesignator= NewDesignator=R3
+Change Component Designator: OldDesignator= NewDesignator=R4
+Change Component Designator: OldDesignator= NewDesignator=R5
+Change Component Designator: OldDesignator= NewDesignator=R6
+Change Component Designator: OldDesignator= NewDesignator=R7
+Change Component Designator: OldDesignator= NewDesignator=R8
+Change Component Designator: OldDesignator= NewDesignator=R9
+Change Component Designator: OldDesignator= NewDesignator=R10
+Change Component Designator: OldDesignator= NewDesignator=R11
+Change Component Designator: OldDesignator= NewDesignator=R12
+Change Component Designator: OldDesignator= NewDesignator=R13
+Change Component Designator: OldDesignator= NewDesignator=R14
+Change Component Designator: OldDesignator= NewDesignator=R15
+Change Component Designator: OldDesignator= NewDesignator=R16
+Change Component Designator: OldDesignator= NewDesignator=R17
+Change Component Designator: OldDesignator= NewDesignator=R18
+Change Component Designator: OldDesignator= NewDesignator=R19
+Change Component Designator: OldDesignator= NewDesignator=R20
+Change Component Designator: OldDesignator= NewDesignator=R21
+Change Component Designator: OldDesignator= NewDesignator=R22
+Change Component Designator: OldDesignator= NewDesignator=R23
+Change Component Designator: OldDesignator= NewDesignator=R24
+Change Component Designator: OldDesignator= NewDesignator=R25
+Change Component Designator: OldDesignator= NewDesignator=R26
+Change Component Designator: OldDesignator= NewDesignator=R27
+Change Component Designator: OldDesignator= NewDesignator=R28
+Change Component Designator: OldDesignator= NewDesignator=R29
+Change Component Designator: OldDesignator= NewDesignator=R30
+Change Component Designator: OldDesignator= NewDesignator=R31
+Change Component Designator: OldDesignator= NewDesignator=R32
+Change Component Designator: OldDesignator= NewDesignator=R33
+Change Component Designator: OldDesignator= NewDesignator=S1
+Change Component Designator: OldDesignator= NewDesignator=S2
+Change Component Designator: OldDesignator= NewDesignator=U1
+Added Component: Designator=D4(MSB6)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Bridge Rectifier; 4 Terminals; Body 16.8 x 16.8 mm (typ); Pitch 10.67 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "D-46_6A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "24-Mar-1999"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=12V Pin=D4-3
+Added Pin To Net: NetName=GND Pin=D4-4
+Added Pin To Net: NetName=VIN+ Pin=D4-1
+Added Pin To Net: NetName=VIN+ Pin=P9-2
+Added Net: Name=VIN+
+Added Pin To Net: NetName=VIN- Pin=D4-2
+Added Pin To Net: NetName=VIN- Pin=P9-1
+Added Net: Name=VIN-
+Added Member To Class: ClassName=Sheet1 Member=Component C1
+Added Member To Class: ClassName=Sheet1 Member=Component C2
+Added Member To Class: ClassName=Sheet1 Member=Component C3
+Added Member To Class: ClassName=Sheet1 Member=Component C4
+Added Member To Class: ClassName=Sheet1 Member=Component C5
+Added Member To Class: ClassName=Sheet1 Member=Component C6
+Added Member To Class: ClassName=Sheet1 Member=Component C7
+Added Member To Class: ClassName=Sheet1 Member=Component C8
+Added Member To Class: ClassName=Sheet1 Member=Component C9
+Added Member To Class: ClassName=Sheet1 Member=Component C10
+Added Member To Class: ClassName=Sheet1 Member=Component C11
+Added Member To Class: ClassName=Sheet1 Member=Component D1 S1M
+Added Member To Class: ClassName=Sheet1 Member=Component D2 S1M
+Added Member To Class: ClassName=Sheet1 Member=Component D3 S1M
+Added Member To Class: ClassName=Sheet1 Member=Component D4 Bridge-MBS6
+Added Member To Class: ClassName=Sheet1 Member=Component IC1 A-MAX13487
+Added Member To Class: ClassName=Sheet1 Member=Component IC2 BP5293-33
+Added Member To Class: ClassName=Sheet1 Member=Component IC3 A-LM1117
+Added Member To Class: ClassName=Sheet1 Member=Component IC4 PIC817
+Added Member To Class: ClassName=Sheet1 Member=Component IC5 PIC817
+Added Member To Class: ClassName=Sheet1 Member=Component IC6 PIC817
+Added Member To Class: ClassName=Sheet1 Member=Component IC7 PIC817
+Added Member To Class: ClassName=Sheet1 Member=Component IC8
+Added Member To Class: ClassName=Sheet1 Member=Component K1 Relay_HRS4
+Added Member To Class: ClassName=Sheet1 Member=Component K2 Relay_HRS4
+Added Member To Class: ClassName=Sheet1 Member=Component L1
+Added Member To Class: ClassName=Sheet1 Member=Component LED1
+Added Member To Class: ClassName=Sheet1 Member=Component LED2
+Added Member To Class: ClassName=Sheet1 Member=Component LED3
+Added Member To Class: ClassName=Sheet1 Member=Component LED4
+Added Member To Class: ClassName=Sheet1 Member=Component LED5
+Added Member To Class: ClassName=Sheet1 Member=Component LED6
+Added Member To Class: ClassName=Sheet1 Member=Component LED7
+Added Member To Class: ClassName=Sheet1 Member=Component LED8
+Added Member To Class: ClassName=Sheet1 Member=Component P1 Programs
+Added Member To Class: ClassName=Sheet1 Member=Component P2 I2C
+Added Member To Class: ClassName=Sheet1 Member=Component P3 I2C
+Added Member To Class: ClassName=Sheet1 Member=Component P4 RS485
+Added Member To Class: ClassName=Sheet1 Member=Component P6 RELAY2
+Added Member To Class: ClassName=Sheet1 Member=Component P7 INPUT
+Added Member To Class: ClassName=Sheet1 Member=Component P8 Micro_USB
+Added Member To Class: ClassName=Sheet1 Member=Component P9 POWER
+Added Member To Class: ClassName=Sheet1 Member=Component Q1 2N7002
+Added Member To Class: ClassName=Sheet1 Member=Component Q2 2N7002
+Added Member To Class: ClassName=Sheet1 Member=Component Q3
+Added Member To Class: ClassName=Sheet1 Member=Component Q4
+Added Member To Class: ClassName=Sheet1 Member=Component Q5
+Added Member To Class: ClassName=Sheet1 Member=Component Q6
+Added Member To Class: ClassName=Sheet1 Member=Component R1
+Added Member To Class: ClassName=Sheet1 Member=Component R2
+Added Member To Class: ClassName=Sheet1 Member=Component R3
+Added Member To Class: ClassName=Sheet1 Member=Component R4
+Added Member To Class: ClassName=Sheet1 Member=Component R5
+Added Member To Class: ClassName=Sheet1 Member=Component R6
+Added Member To Class: ClassName=Sheet1 Member=Component R7
+Added Member To Class: ClassName=Sheet1 Member=Component R8
+Added Member To Class: ClassName=Sheet1 Member=Component R9
+Added Member To Class: ClassName=Sheet1 Member=Component R10
+Added Member To Class: ClassName=Sheet1 Member=Component R11
+Added Member To Class: ClassName=Sheet1 Member=Component R12
+Added Member To Class: ClassName=Sheet1 Member=Component R13
+Added Member To Class: ClassName=Sheet1 Member=Component R14
+Added Member To Class: ClassName=Sheet1 Member=Component R15
+Added Member To Class: ClassName=Sheet1 Member=Component R16
+Added Member To Class: ClassName=Sheet1 Member=Component R17
+Added Member To Class: ClassName=Sheet1 Member=Component R18
+Added Member To Class: ClassName=Sheet1 Member=Component R19
+Added Member To Class: ClassName=Sheet1 Member=Component R20
+Added Member To Class: ClassName=Sheet1 Member=Component R21
+Added Member To Class: ClassName=Sheet1 Member=Component R22
+Added Member To Class: ClassName=Sheet1 Member=Component R23 470E
+Added Member To Class: ClassName=Sheet1 Member=Component R24
+Added Member To Class: ClassName=Sheet1 Member=Component R25
+Added Member To Class: ClassName=Sheet1 Member=Component R26
+Added Member To Class: ClassName=Sheet1 Member=Component R27
+Added Member To Class: ClassName=Sheet1 Member=Component R28
+Added Member To Class: ClassName=Sheet1 Member=Component R29 470E
+Added Member To Class: ClassName=Sheet1 Member=Component R30
+Added Member To Class: ClassName=Sheet1 Member=Component R31
+Added Member To Class: ClassName=Sheet1 Member=Component R32
+Added Member To Class: ClassName=Sheet1 Member=Component R33
+Added Member To Class: ClassName=Sheet1 Member=Component S1 RST
+Added Member To Class: ClassName=Sheet1 Member=Component S2 UPLOAD
+Added Member To Class: ClassName=Sheet1 Member=Component U1 ESP32-WROVER-B

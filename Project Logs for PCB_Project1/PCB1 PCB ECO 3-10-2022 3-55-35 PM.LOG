@@ -1,0 +1,21 @@
+Removed Pin From Net: NetName=NC1 Pin=K1-2
+Removed Pin From Net: NetName=NO1 Pin=K1-3
+Removed Pin From Net: NetName=RY1 Pin=K1-4
+Removed Pin From Net: NetName=GND Pin=K1-5
+Removed Pin From Net: NetName=NC2 Pin=K2-2
+Removed Pin From Net: NetName=NO2 Pin=K2-3
+Removed Pin From Net: NetName=RY2 Pin=K2-4
+Removed Pin From Net: NetName=GND Pin=K2-5
+Change Component Footprint: Designator=K1 Old Footprint=MODUL_HRS4 New Footprint=RELAY_NY-5W-K-IE
+Change Component Footprint: Designator=K2 Old Footprint=MODUL_HRS4 New Footprint=RELAY_NY-5W-K-IE
+Change Component Comment : Designator=K1 Old Comment=Relay_HRS4 New Comment=E-RELAY
+Change Component Comment : Designator=K2 Old Comment=Relay_HRS4 New Comment=E-RELAY
+Change component parameters: Designator = "K1" ("K1"); Footprint = "MODUL_HRS4"; UniqueID = "\FMYIEMAA" ("\FMYIEMAA")
+Change component parameters: Designator = "K2" ("K2"); Footprint = "MODUL_HRS4"; UniqueID = "\GYDYGCXX" ("\GYDYGCXX")
+Added Pin To Net: NetName=NO1 Pin=K1-2
+Added Pin To Net: NetName=RY1 Pin=K1-3
+Added Pin To Net: NetName=GND Pin=K1-4
+Added Pin To Net: NetName=NO2 Pin=K2-2
+Added Pin To Net: NetName=RY2 Pin=K2-3
+Added Pin To Net: NetName=GND Pin=K2-4
+Added Room: Name=Sheet1

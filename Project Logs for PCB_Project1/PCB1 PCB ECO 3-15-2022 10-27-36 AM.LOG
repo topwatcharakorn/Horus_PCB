@@ -1,0 +1,55 @@
+Change Component Comment : Designator=C2 Old Comment= New Comment=104
+Change Component Comment : Designator=C3 Old Comment= New Comment=106
+Change Component Comment : Designator=C4 Old Comment= New Comment=106
+Change Component Comment : Designator=IC3 Old Comment=A-LM1117 New Comment=LM1117-33
+Change Component Comment : Designator=IC1 Old Comment=A-MAX13487 New Comment=MAX13487
+Change Component Comment : Designator=C1 Old Comment=C1 New Comment=104
+Change Component Comment : Designator=C5 Old Comment=C5 New Comment=104
+Change Component Comment : Designator=C6 Old Comment=C6 New Comment=106
+Change Component Comment : Designator=C7 Old Comment=C7 New Comment=106
+Change Component Comment : Designator=C8 Old Comment=C8 New Comment=104
+Change Component Comment : Designator=C9 Old Comment=C9 New Comment=104
+Change Component Comment : Designator=C10 Old Comment=C10 New Comment=104
+Change Component Comment : Designator=LED3 Old Comment=LED3 New Comment=B-LEDY
+Change Component Comment : Designator=LED4 Old Comment=LED4 New Comment=B-LEDY
+Change Component Comment : Designator=Q3 Old Comment=Q3 New Comment=B-557
+Change Component Comment : Designator=Q4 Old Comment=Q4 New Comment=B-557
+Change Component Comment : Designator=Q5 Old Comment=Q5 New Comment=UTC8550S
+Change Component Comment : Designator=Q6 Old Comment=Q6 New Comment=UTC8550S
+Change Component Comment : Designator=R1 Old Comment=R1 New Comment=10K
+Change Component Comment : Designator=R2 Old Comment=R2 New Comment=10K
+Change Component Comment : Designator=R3 Old Comment=R3 New Comment=10K
+Change Component Comment : Designator=R4 Old Comment=R4 New Comment=47K
+Change Component Comment : Designator=R5 Old Comment=R5 New Comment=47K
+Change Component Comment : Designator=R6 Old Comment=R6 New Comment=10K
+Change Component Comment : Designator=R7 Old Comment=R7 New Comment=10K
+Change Component Comment : Designator=R8 Old Comment=R8 New Comment=330E
+Change Component Comment : Designator=R9 Old Comment=R9 New Comment=10K
+Change Component Comment : Designator=R10 Old Comment=R10 New Comment=10K
+Change Component Comment : Designator=R11 Old Comment=R11 New Comment=330E
+Change Component Comment : Designator=R12 Old Comment=R12 New Comment=330E
+Change Component Comment : Designator=R13 Old Comment=R13 New Comment=330E
+Change Component Comment : Designator=R14 Old Comment=R14 New Comment=330E
+Change Component Comment : Designator=R15 Old Comment=R15 New Comment=10K
+Change Component Comment : Designator=R16 Old Comment=R16 New Comment=330E
+Change Component Comment : Designator=R17 Old Comment=R17 New Comment=10K
+Change Component Comment : Designator=R18 Old Comment=R18 New Comment=330E
+Change Component Comment : Designator=R19 Old Comment=R19 New Comment=330E
+Change Component Comment : Designator=R20 Old Comment=R20 New Comment=10K
+Change Component Comment : Designator=R21 Old Comment=R21 New Comment=10K
+Change Component Comment : Designator=R22 Old Comment=R22 New Comment=1E
+Change Component Comment : Designator=R24 Old Comment=R24 New Comment=330E
+Change Component Comment : Designator=R25 Old Comment=R25 New Comment=330E
+Change Component Comment : Designator=R26 Old Comment=R26 New Comment=10K
+Change Component Comment : Designator=R27 Old Comment=R27 New Comment=10K
+Change Component Comment : Designator=R28 Old Comment=R28 New Comment=1E
+Change Component Comment : Designator=R30 Old Comment=R30 New Comment=330E
+Change Component Comment : Designator=R31 Old Comment=R31 New Comment=470E5
+Change Component Comment : Designator=R32 Old Comment=R32 New Comment=330E
+Change Component Comment : Designator=R33 Old Comment=R33 New Comment=330E
+Change Component Comment : Designator=S1 Old Comment=RST New Comment=SW-PB
+Change Component Comment : Designator=S2 Old Comment=UPLOAD New Comment=SW-PB
+Added Member To Class: ClassName=Sheet1 Member=Component LCD1
+Added Member To Class: ClassName=Sheet1 Member=Component LED2
+Added Member To Class: ClassName=Sheet1 Member=Component U1 ESP32-WROVER-B
+Added Room: Name=Sheet1

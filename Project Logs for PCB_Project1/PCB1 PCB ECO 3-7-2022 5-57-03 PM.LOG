@@ -1,0 +1,4 @@
+Added Pin To Net: NetName=SD_CS Pin=-15
+Added Pin To Net: NetName=T_DIN Pin=-16
+Added Pin To Net: NetName=T_DO Pin=-17
+Added Pin To Net: NetName=T_CLK Pin=-18

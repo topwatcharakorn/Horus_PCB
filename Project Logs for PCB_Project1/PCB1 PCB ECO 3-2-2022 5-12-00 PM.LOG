@@ -1,0 +1,15 @@
+Change Component Comment : Designator=Q3 Old Comment=B-557 New Comment=BC857
+Change Component Comment : Designator=Q4 Old Comment=B-557 New Comment=BC857
+Added Pin To Net: NetName=RY1 Pin=Q3-C
+Added Pin To Net: NetName=RY2 Pin=Q4-C
+Added Pin To Net: NetName=NetQ3_B Pin=Q3-B
+Added Pin To Net: NetName=NetQ3_B Pin=R21-2
+Added Pin To Net: NetName=NetQ3_B Pin=R23-2
+Added Net: Name=NetQ3_B
+Added Pin To Net: NetName=NetQ3_E Pin=Q3-E
+Added Pin To Net: NetName=NetQ3_E Pin=R22-2
+Added Net: Name=NetQ3_E
+Added Pin To Net: NetName=NetQ4_B Pin=Q4-B
+Added Pin To Net: NetName=NetQ4_B Pin=R27-2
+Added Pin To Net: NetName=NetQ4_B Pin=R29-2
+Added Net: Name=NetQ4_B

@@ -1,0 +1,21 @@
+Change Component Designator: OldDesignator= NewDesignator=LCD1
+Added Component: Designator=LCD2(LCD 2.4 TFT SPI 240x320)
+Added Pin To Net: NetName=T_DO Pin=LCD2-2
+Added Pin To Net: NetName=T_DIN Pin=LCD2-3
+Added Pin To Net: NetName=T_CS Pin=LCD2-4
+Added Pin To Net: NetName=T_CLK Pin=LCD2-5
+Added Pin To Net: NetName=T_DO Pin=LCD2-6
+Added Pin To Net: NetName=LED Pin=LCD2-7
+Added Pin To Net: NetName=T_CLK Pin=LCD2-8
+Added Pin To Net: NetName=T_DIN Pin=LCD2-9
+Added Pin To Net: NetName=DC Pin=LCD2-10
+Added Pin To Net: NetName=RESET Pin=LCD2-11
+Added Pin To Net: NetName=CS Pin=LCD2-12
+Added Pin To Net: NetName=GND Pin=LCD2-13
+Added Pin To Net: NetName=3V3 Pin=LCD2-14
+Added Pin To Net: NetName=SD_CS Pin=LCD2-15
+Added Pin To Net: NetName=T_DIN Pin=LCD2-16
+Added Pin To Net: NetName=T_DO Pin=LCD2-17
+Added Pin To Net: NetName=T_CLK Pin=LCD2-18
+Added Member To Class: ClassName=Sheet1 Member=Component LCD1 LCD 2.4 TFT SPI 240X320
+Added Member To Class: ClassName=Sheet1 Member=Component LCD2 LCD 2.4 TFT SPI 240X320
